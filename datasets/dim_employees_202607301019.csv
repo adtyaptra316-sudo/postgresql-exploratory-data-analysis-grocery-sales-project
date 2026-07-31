@@ -1,0 +1,24 @@
+"employee_id","employee_name","gender","birth_date","country_id","country_name","country_code","city_id","city_name","hire_date"
+1,Nicole T. Fuller,Female,1981-03-07 00:00:00.000,32,United States,AR,80,New Orleans,2011-06-20 07:15:36.920
+2,Christine W. Palmer,Female,1968-01-25 00:00:00.000,32,United States,AR,4,Fremont,2011-04-27 04:07:56.930
+3,Pablo Y. Cline,Male,1963-02-09 00:00:00.000,32,United States,AR,70,Rochester,2012-03-30 18:55:23.270
+4,Darnell O. Nielsen,Male,1989-02-06 00:00:00.000,32,United States,AR,39,Lubbock,2014-03-06 06:55:02.780
+5,Desiree L. Stuart,Female,1963-05-03 00:00:00.000,32,United States,AR,23,Anaheim,2014-11-16 22:59:54.720
+6,Holly E. Collins,Male,1987-01-13 00:00:00.000,32,United States,AR,65,Baltimore,2013-06-22 13:20:18.080
+7,Chadwick P. Cook,Male,1970-05-02 00:00:00.000,32,United States,AR,39,Lubbock,2016-07-10 06:22:00.670
+8,Julie E. Dyer,Male,1956-12-13 00:00:00.000,32,United States,AR,18,Little Rock,2014-10-14 23:12:53.420
+9,Daphne X. King,Female,1956-05-02 00:00:00.000,32,United States,AR,39,Lubbock,2013-04-17 14:48:02.700
+10,Jean P. Vang,Male,1963-12-30 00:00:00.000,32,United States,AR,9,Atlanta,2012-07-23 15:02:12.640
+11,Sonya E. Dickson,Female,1976-01-14 00:00:00.000,32,United States,AR,12,Tacoma,2016-08-10 15:59:30.360
+12,Lindsay M. Chen,Female,1951-09-03 00:00:00.000,32,United States,AR,58,Columbus,2011-11-03 00:44:25.390
+13,Katina Y. Marks,Male,1963-04-18 00:00:00.000,32,United States,AR,68,Anchorage,2011-12-12 10:43:52.940
+14,Wendi G. Buckley,Male,1961-09-05 00:00:00.000,32,United States,AR,32,Jackson,2016-07-11 00:57:58.340
+15,Kari D. Finley,Male,1972-02-17 00:00:00.000,32,United States,AR,92,Hialeah,2014-07-13 06:50:11.790
+16,Chadwick U. Walton,Male,1951-07-07 00:00:00.000,32,United States,AR,28,Tucson,2017-02-10 11:21:26.650
+17,Seth D. Franco,Male,1989-08-29 00:00:00.000,32,United States,AR,80,New Orleans,2010-07-11 09:23:03.490
+18,Warren C. Bartlett,Male,1964-03-09 00:00:00.000,32,United States,AR,58,Columbus,2010-02-22 21:55:48.620
+19,Bernard L. Moody,Male,1970-03-22 00:00:00.000,32,United States,AR,54,Albuquerque,2013-11-12 19:25:04.390
+20,Shelby P. Riddle,Male,1964-06-13 00:00:00.000,32,United States,AR,14,Indianapolis,2013-03-24 08:36:50.020
+21,Devon D. Brewer,Male,1966-04-25 00:00:00.000,32,United States,AR,65,Baltimore,2016-01-24 02:13:24.340
+22,Tonia O. Mc Millan,Female,1952-03-02 00:00:00.000,32,United States,AR,53,Las Vegas,2015-11-25 18:18:23.480
+23,Janet K. Flowers,Female,1979-03-01 00:00:00.000,32,United States,AR,7,Riverside,2010-05-12 02:52:30.370
