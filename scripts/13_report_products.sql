@@ -6,8 +6,8 @@ Purpose:
     - This report consolidates key product metrics and behaviors.
 
 Highlights:
-    1. Gathers essential fields such as product name, category, and price.
-    2. Segments products by revenue to identify High-Performers, Mid-Range, or Low-Performers.
+    1. Gathers essential fields such as product name, category, and sales details.
+    2. Segments products by revenue to identify High-Performers, Mid-Performers, or Low-Performers.
     3. Aggregates product-level metrics:
        - total orders
        - total sales
