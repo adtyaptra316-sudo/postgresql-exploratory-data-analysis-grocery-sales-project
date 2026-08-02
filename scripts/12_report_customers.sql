@@ -14,8 +14,7 @@ Purpose:
 	- total quantity purchased
 	- total products
 	4. Calculates valuable KPIs:
-	- average order value
-	- average monthly spend
+	- average transaction value
 */
 
 create or replace view gold.report_customers
@@ -77,7 +76,7 @@ select
 	last_transaction_date,
 	total_transactions,
 	total_sales,
-	-- compute average sales value 
+	-- compute average transaction value 
 	total_sales / total_transactions as avg_per_transaction,
 	total_quantity_purchased,
 	total_products
