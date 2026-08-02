@@ -53,11 +53,11 @@ select
 	country_name,
 	city_name,
 	addres,
+	max(sales_date) as last_transaction_date,
 	count(sales_id) as total_transactions,
 	sum(total_price) as total_sales,
 	sum(quantity) as total_quantity_purchased,
-	count(distinct product_id) as total_products,
-	max(sales_date) as last_transaction_date
+	count(distinct product_id) as total_products
 from base_customers 
 group by customer_id, customer_name, country_name, city_name, addres
 )
@@ -74,11 +74,11 @@ select
 	country_name,
 	city_name,
 	addres,
+	last_transaction_date,
 	total_transactions,
 	total_sales,
 	-- compute average sales value 
 	total_sales / total_transactions as avg_per_transaction,
 	total_quantity_purchased,
-	total_products,
-	last_transaction_date
+	total_products
 from customers_aggregation;
