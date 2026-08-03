@@ -15,6 +15,7 @@ Purpose:
 	- total products
 	4. Calculates valuable KPIs:
 	- average transaction value
+
 */
 
 create or replace view gold.report_customers
@@ -65,9 +66,9 @@ select
 	customer_name,
 	-- customers segmentations
 	case
-		when total_sales > 100000 then 'VVIP'
-		when total_sales between 80000 and 100000 then 'VIP'
-		when total_sales between 10000 and 80000 then 'Regular'
+		when total_sales >= 100000 then 'VVIP'
+		when total_sales >= 80000 then 'VIP'
+		when total_sales >= 10000 then 'Regular'
 		else 'Basic'
 	end as customer_category,
 	country_name,
