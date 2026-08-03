@@ -62,7 +62,7 @@ select
 	max(sales_date) as last_transaction_date,
 	count(sales_id) as total_transactions,
 	sum(total_price) as total_sales,
-	sum(quantity) as total_quantity_purchased,
+	sum(quantity) as total_quantity_sold,
 	sum(discount) as total_discount,
 	count(distinct customer_id) as total_customers
 from base_products 
@@ -95,7 +95,7 @@ select
 	total_sales,
 	-- compute average transaction sales
 	total_sales / total_transactions as average_per_transaction,
-	total_quantity_purchased,
+	total_quantity_sold,
 	total_discount,
 	total_customers
 from product_aggregation;
