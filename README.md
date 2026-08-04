@@ -3,7 +3,7 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 
 This project builds on my previous Data Warehouse project, which serves as the core foundation for this setup.
 Link
-[Data Warehouse Repository]([https://github.com/username-kamu/repository-b](https://github.com/adtyaptra316-sudo/postgresql-data-warehouse-grocery-sales-project))
+[Data Warehouse Repository](https://github.com/adtyaptra316-sudo/postgresql-data-warehouse-grocery-sales-project)
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
